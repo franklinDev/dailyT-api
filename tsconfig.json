@@ -1,0 +1,14 @@
+{
+    "compilerOptions" : {
+        "target": "es5",
+        "downlevelIteration": true,
+        "lib": ["esnext"]
+    },
+    "include" : [
+         "src/**/*.ts"
+    ],
+    "compileOnSave": false,
+    "exclude" : [
+        "node_modules"
+    ]
+}
